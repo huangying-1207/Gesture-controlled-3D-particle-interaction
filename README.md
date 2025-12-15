@@ -3,3 +3,4 @@ The main functions are as follows: 1. 3D particle-based Christmas tree 2. Define
 
 
 Simply place the main file locally to open and use it.
+Please grant access to the camera.
